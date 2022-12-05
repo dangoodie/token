@@ -21,7 +21,7 @@ function Faucet() {
         Faucet
       </h2>
       <label>
-        Get your free DAngela tokens here! Claim 10,000 DSQD tokens to your
+        Get your free DSquid tokens here! Claim 10,000 DSQD tokens to your
         account.
       </label>
       <p className="trade-buttons">
